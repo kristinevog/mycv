@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$USER_HOME$/Downloads/neu/neu/mycv_v1">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$USER_HOME$/Downloads/neu/neu/mycv_v1/css" />
+            <path value="file://$USER_HOME$/Downloads/neu/neu/mycv_v1/font" />
+            <path value="file://$USER_HOME$/Downloads/neu/neu/mycv_v1/fonts" />
+            <path value="file://$USER_HOME$/Downloads/neu/neu/mycv_v1/images" />
+            <path value="file://$USER_HOME$/Downloads/neu/neu/mycv_v1/js" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>
