@@ -17,7 +17,7 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background: #e40e08;
 }
 
 ::selection {
@@ -31,18 +31,18 @@ body {
 }
 
 p {
-    color: #858585;
+    color: #505b85;
 	line-height:22px;
 }
 .white{
 	background:#fff;
 	}
 .pDark p {
-    color: #6D6D6D;
+    color: #3d2e6d;
 }
 
 .pDark h3 {
-    color: #BEBEBE;
+    color: #9a93be;
 }
 
 .btn, .form-control, .team-socials i {
