@@ -17,7 +17,7 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #e44f77;
+    background: #e4206f;
 }
 
 ::selection {
@@ -26,7 +26,7 @@ body {
 }
 
 ::-moz-selection {
-    color: #fff;
+    color: #efd8ff;
     background: #c32dcc;
 }
 
@@ -64,7 +64,7 @@ p {
 }
 
     .button-outline:hover {
-        color: #fff;
+        color: #ff828a;
         background: rgba(255,255,255,0.35);
     }
 
@@ -162,7 +162,7 @@ background: transparent !important;
     background: #fff;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #ffadef;
+	color: #ff828a;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 color: #FFFFFF;
@@ -338,7 +338,7 @@ background: none;
 }
 
     .banner-content h2 {
-        color: #fff;
+        color: #ff828a;
         font-size: 3.5em;
         margin: 2% 0 30px;
         line-height: 1.2em;
@@ -415,11 +415,11 @@ background: none;
 /*Intro Content*/
 #introText {
 padding:50px 0;
-background:#fff;
+background: #ffffff;
 }
 
 #aboutUs .txtHead{
-background:#fff;
+background: #ff828a;
 padding:20px 10px;
 }
 #aboutUs .txtHead .fa {
@@ -444,7 +444,7 @@ background-attachment: fixed;
 .parlex-back {
 padding: 30px 0;
 background-color: rgba(0, 0, 0, 0.37);
-color: #FDFDFD !important;
+color: #ffffff !important;
 }
 /*Skills*/
 .skilltitle {
@@ -484,7 +484,7 @@ background-color: #cc54a1;
   height: 0;
 }
 #timeline .timeline-badge {
-  color: #fff;
+  color: #ff828a;
   width: 50px;
   height: 50px;
   font-size: 1.2em;
@@ -510,7 +510,7 @@ top: -6px;
 display: inherit;
 }
 #timeline .timeline-badge.timeline-filter-movement {
-  background-color: #ffffff;
+  background-color: #e496a2;
   font-size: 1.7em;
   height: 35px;
   margin-left: -18px;
@@ -523,7 +523,7 @@ display: inherit;
   top: -1px;
 }
 #timeline .timeline-badge.timeline-future-movement {
-  background-color: #ffffff;
+  background-color: #ff828a;
   height: 35px;
   width: 35px;
   font-size: 1.7em;
@@ -549,7 +549,7 @@ display: inherit;
 #timeline .timeline-movement .timeline-item .timeline-panel {
   border: 1px solid #d4d4d4;
   border-radius: 3px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: #666;
   padding: 10px;
   position: relative;
@@ -670,7 +670,7 @@ display: inherit;
         height: 42px;
         line-height: 42px;
         background: transparent;
-        border: 2px solid #E7EBEF;
+        border: 2px solid #ffffff;
         margin: 0px 5px 0px 0px;
         position: relative;
         display: inline-block;
@@ -714,7 +714,7 @@ nav#filter {
 
 .current {
     background: #cc5d9d;
-    color: #fff;
+    color: #ffffff;
 }
 
 .portfolio-items article img {
@@ -761,7 +761,7 @@ nav#filter {
 }
 
 .portfolio-item .portfolio-desc a {
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     display: block;
 }
@@ -808,12 +808,12 @@ nav#filter {
 
 .btn-dark {
     background: #444;
-    color: #fff;
+    color: #ffffff;
 }
 
     .btn-dark:hover {
         background: #000;
-        color: #fff;
+        color: #ffffff;
     }
 
 .back-to-top {
@@ -892,7 +892,7 @@ body {
 footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
-    background: #fff;
+    background: #ffffff;
 }
 
 .social a:hover {
@@ -1137,5 +1137,5 @@ footer {
         -moz-user-select: none;
         -ms-user-select: none;
         user-select: none;
-        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-tap-highlight-color: rgba(239, 216, 255, 0);
     }
